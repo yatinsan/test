@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.a36c17aa.chunk.css",
+    "main.js": "/test/static/js/main.0e6f56df.chunk.js",
+    "main.js.map": "/test/static/js/main.0e6f56df.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.8ad7c703.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.8ad7c703.js.map",
+    "static/js/2.5d1345ab.chunk.js": "/test/static/js/2.5d1345ab.chunk.js",
+    "static/js/2.5d1345ab.chunk.js.map": "/test/static/js/2.5d1345ab.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.a36c17aa.chunk.css.map": "/test/static/css/main.a36c17aa.chunk.css.map",
+    "static/js/2.5d1345ab.chunk.js.LICENSE.txt": "/test/static/js/2.5d1345ab.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/test/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ad7c703.js",
+    "static/js/2.5d1345ab.chunk.js",
+    "static/css/main.a36c17aa.chunk.css",
+    "static/js/main.0e6f56df.chunk.js"
+  ]
+}
